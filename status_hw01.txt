@@ -1,0 +1,30 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+James Griffin
+
+2. Which VPS & domain providers did you choose?
+I used Vultr for VPS and Gandi for domain registration.
+
+3. What domain name did you register?
+jimbot.io
+
+4. What's the URL of your Github repository for this assignment?
+https://github.com/yono-oko/CS4550.hw01
+
+5. Which parts of this assignment did you have trouble with, if any?
+This project was not too difficult for me, however I did run into
+issues setting up DNS and pointing my sites to my server. Waiting
+for DNS to propagate only made this more difficult.
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
+ - Task 9
